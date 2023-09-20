@@ -95,7 +95,7 @@ export const CustomInput = styled.input`
   margin-bottom: 20px;
   outline: none;
 `
-export const CustomSelect = styled.input`
+export const CustomSelect = styled.select`
   color: #1e293b;
   background-color: #fff;
   font-family: 'Open Sans';
